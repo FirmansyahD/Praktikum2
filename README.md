@@ -12,7 +12,9 @@ Latihan5
 Latihan6
 ![alt text](https://github.com/FirmansyahD/Praktikum2/blob/master/Gambar/lat6.PNG)
 # LoginForm
-![alt text](
+![alt text](https://github.com/FirmansyahD/Praktikum2/blob/master/Gambar/Form_login.PNG)
+
+![alt text](https://github.com/FirmansyahD/Praktikum2/blob/master/Gambar/Form_Berhasil.PNG)
 # Modul4
 while
 ![alt text](https://github.com/FirmansyahD/Praktikum2/blob/master/Gambar/while.PNG)
